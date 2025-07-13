@@ -1,0 +1,15 @@
+Let us learn about Business Analytics with Excel with the help of a scenario. 
+Michael has joined as a business analyst in a company. John, the functional manager, assigns a task to Michael to 
+observe the company statistics by checking the company's profit and field of improvements. Michael is new to this 
+field and does not have the expertise to analyze data and create valuable insights out of it. To manage and analyze data, 
+he must learn the concepts of data cleaning, data preparation, and data visualization. He must acquaint himself with the business 
+analytics approach and understand how to remove duplicates and have an overview of formatting in order to provide data analytics
+for the company. He must familiarize himself with business analytics tools like Excel to perform specific functions. 
+He lacks experience with data visualization. Therefore, he has to learn different functions like VLOOKUP, HLOOKUP, MATCH, etc. 
+He has to put the data in charts and compare the current data with the previous year data. He needs macros to automate tasks that 
+he needs to perform repeatedly, which will in turn save him a lot of time. He will need to learn how to use SOLVER ADDIN and 
+GOALSEEK to find optimal values and understand what value needs to be in an input cell to achieve a desired result in a formula cell.
+He will also have to acquaint himself with the concept of moving average so that he can smooth out the data by reducing the impact of
+random fluctuations. Michael will have to understand multiple linear regression so that he can make one plot for each independent 
+variable versus the residuals. Through this Michael will subsequently be able to analyze the company's data to derive valuable 
+insights and drive better business decisions.
