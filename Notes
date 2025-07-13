@@ -21,6 +21,42 @@ insights and drive better business decisions.
 
 
 Types of Analytics:
+There are four distinct types of analytics. 
+Descriptive - which explains what has happened, 
+Diagnostic - which states why it happened, 
+Predictive - depicts what could happen, and 
+Prescriptive - talks about what should happen. 
+
+The first one on the list is descriptive analytics. This is known as the simplest class of analytics. This type of analytics 
+allows us to break a big chunk of data into smaller pieces, chunking out relevant information from the data or brief synopsis 
+of what has happened. Let us take an example of doing a descriptive analytics of the customer data. 
+It includes finding answers to the following questions. 
+
+How many different segments of buyers are we dealing with? 
+Where are these buyers located? 
+How do high value customers differ? 
+What are they interested in? 
+What is the income, age, number of children, occupation, and regional breakdown of these buyers? 
+
+The next type is diagnostic analytics. Diagnostic analytics is the best option to go for if you want to dig deeper
+into the data you have collected and have a better understanding of why things happen. Let us now learn about another type, 
+which is predictive analytics.
+
+Predictive analytics is another option available to us to condense data. It uses different statistical data modeling and data 
+mining techniques to study the latest and past trends, thereby allowing business analysts and data scientists to make predictions. 
+Here's an example of doing predictive analytics for a marketing campaign. It will look for answers to the following questions. 
+Who will respond to this campaign? 
+For what product and through which channel? 
+What are the potential values of each customer and prospect? 
+Who will stop the subscription of the services and when would that happen? 
+
+The last one on the list is prescriptive analytics. 
+Prescriptive analytics is the last phase of business analytics and is related to both descriptive and predictive analytics. 
+While descriptive analytics provide information about what has happened and predictive analytics helps to forecast what might happen, 
+which is probabilistic in nature. Prescriptive analytics optimizes decision making by determining the best solution available 
+amongst various choices given the business constraints.
+
+Area of Analytics:
 1. Customer analytics
 2. Industry focused analytics
 3. Financial analytics
@@ -65,3 +101,22 @@ the confidence and trust of the parties involved and thus hampers the achievemen
 It's one of the common risks to be taken into account.
 
 
+Question 1
+ Which of the following is similar to predictive analytics?
+A: Machine Learning
+
+Question 2
+Predictive analytics is based on which of the following?
+A: Algorithms
+
+Question 3
+Which type of analytics is primarily focused on understanding what has happened in the past?
+A: Descriptive analytics
+
+Question 4
+Which area of analytics uses statistical models and machine learning techniques to forecast future outcomes?
+A: Predictive analytics
+
+Question 5
+Which type of analytics helps organizations decide the best course of action among alternatives?
+A: Prescriptive analytics
