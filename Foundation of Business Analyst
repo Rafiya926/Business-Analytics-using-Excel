@@ -1,0 +1,43 @@
+Business Analytics Using Excel
+
+Description 
+
+This course offers a comprehensive journey through business analytics using Excel. Start with the basics of analytics, 
+then learn to clean and prepare data for analysis. Master Excel functions, Pivot Tables, and interactive dashboards. 
+Explore tools like Goal Seek, Solver, and descriptive statistics. Advance to statistical techniques including regression, 
+ANOVA, and correlation, and automate tasks using Macros for efficient data analysis.
+
+Foundations of Business Analytics
+
+Explore business analytics fundamentals and learn how to clean and prepare data for analysis in Excel. 
+Introduction to Business Analytics: Understand key concepts, types, and areas of business analytics.
+- Data Cleaning Techniques: Learn to sort, filter, group, and split data for better organization.
+- Duplicate Handling and Validation: Remove duplicates and apply data validation for accuracy.
+- Practical Recap and Knowledge Checks: Reinforce learning with summaries and quick assessments.
+
+Excel Functions and Data Analysis
+Explore key Excel functions, advanced formatting, and Pivot Tables to analyze and visualize business data. 
+Excel Formatting & Functions: Use custom and conditional formatting, logical, lookup, and statistical functions.
+- Lookup & Reference Tools: Apply VLOOKUP, HLOOKUP, MATCH, INDEX, and OFFSET for efficient data retrieval.
+- Statistical Analysis: Perform calculations using SUMIFS, COUNTIFS, percentiles, quartiles, and more.
+- Pivot Tables & Slicers: Create Pivot Tables, group data, use calculated fields, and apply slicers for dynamic insights.
+
+Data Visualization & Analytical Tools in Excel
+Explore Excel-based dashboards and analytical tools to visualize data and uncover actionable insights. 
+Dashboarding: Learn principles of effective dashboard design and build charts like thermometer, Pareto, and speedometer.
+- Interactive Elements: Use form controls like checkboxes, combo boxes, and scroll bars for dynamic dashboards.
+- Analytical Tools: Apply Solver, Goal Seek, Data Tables, and Descriptive Statistics to support decision-making.
+- Practical Application: Create histograms and perform hands-on exercises to build real-world analytical skills.
+
+Statistical Analysis & Automation
+Explore statistical methods and Excel automation to streamline analysis and uncover deeper data insights. 
+Statistical Techniques: Apply moving averages, hypothesis testing, ANOVA, regression, and distributions.
+- Regression Models: Work with multiple linear and logistic regression to predict outcomes and analyse trends.
+- Macros for Analytics: Automate tasks like summary stats, correlation checks, and data cleaning using Excel Macros.
+- Hands-On Practice: Reinforce concepts through practical exercises, recaps, and knowledge checks.
+
+Conclusion
+By the end of this course, learners will gain hands-on expertise in using Excel for business analytics—starting from data 
+cleaning and core functions to advanced visualizations, statistical techniques, and automation with Macros. 
+This course is ideal for aspiring data analysts, business professionals, and project managers looking to turn raw data 
+into actionable insights and make smarter, data-driven decisions in their roles.
