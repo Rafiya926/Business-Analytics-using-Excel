@@ -1,15 +1,67 @@
-Let us learn about Business Analytics with Excel with the help of a scenario. 
-Michael has joined as a business analyst in a company. John, the functional manager, assigns a task to Michael to 
-observe the company statistics by checking the company's profit and field of improvements. Michael is new to this 
-field and does not have the expertise to analyze data and create valuable insights out of it. To manage and analyze data, 
-he must learn the concepts of data cleaning, data preparation, and data visualization. He must acquaint himself with the business 
-analytics approach and understand how to remove duplicates and have an overview of formatting in order to provide data analytics
-for the company. He must familiarize himself with business analytics tools like Excel to perform specific functions. 
-He lacks experience with data visualization. Therefore, he has to learn different functions like VLOOKUP, HLOOKUP, MATCH, etc. 
-He has to put the data in charts and compare the current data with the previous year data. He needs macros to automate tasks that 
-he needs to perform repeatedly, which will in turn save him a lot of time. He will need to learn how to use SOLVER ADDIN and 
-GOALSEEK to find optimal values and understand what value needs to be in an input cell to achieve a desired result in a formula cell.
-He will also have to acquaint himself with the concept of moving average so that he can smooth out the data by reducing the impact of
-random fluctuations. Michael will have to understand multiple linear regression so that he can make one plot for each independent 
+In this lesson, you will be introduced to business analytics with Excel. Michael is a fresher and he recently started working as a 
+business analyst in an IT company. His manager assigns him a new project that requires him to perform tasks using Excel.
+He needs to understand and utilize Excel for many purposes. To complete the project, he has to learn the concept of analytics, 
+the types of analytics, and also the areas of analytics with relevant examples.
+
+
+Let us learn about Business Analytics with Excel with the help of a scenario. Michael has joined as a business analyst in a company. 
+John, the functional manager, assigns a task to Michael to observe the company statistics by checking the company's profit and field
+of improvements. Michael is new to this field and does not have the expertise to analyze data and create valuable insights out of it. 
+To manage and analyze data, he must learn the concepts of data cleaning, data preparation, and data visualization. He must acquaint 
+himself with the business analytics approach and understand how to remove duplicates and have an overview of formatting in order to
+provide data analytics for the company. He must familiarize himself with business analytics tools like Excel to perform specific 
+functions. He lacks experience with data visualization. Therefore, he has to learn different functions like VLOOKUP, HLOOKUP, MATCH, 
+etc. He has to put the data in charts and compare the current data with the previous year data. He needs macros to automate tasks that
+he needs to perform repeatedly, which will in turn save him a lot of time. He will need to learn how to use SOLVER ADDIN and GOALSEEK 
+to find optimal values and understand what value needs to be in an input cell to achieve a desired result in a formula cell.
+He will also have to acquaint himself with the concept of moving average so that he can smooth out the data by reducing the impact 
+of random fluctuations. Michael will have to understand multiple linear regression so that he can make one plot for each independent
 variable versus the residuals. Through this Michael will subsequently be able to analyze the company's data to derive valuable 
 insights and drive better business decisions.
+
+
+Types of Analytics:
+1. Customer analytics
+2. Industry focused analytics
+3. Financial analytics
+4. Performance analytics and 
+5. Risk analytics. 
+
+1. Customer analytics is a process that helps an organization take critical decisions and deliver offers that are anticipated. 
+This analytics offers the organization customer insights necessary to take decisions. Customer analytics uses techniques such as 
+market segmentation, predictive analytics, data modeling, and visualization. It plays a pivotal role in the prediction of customer 
+behavior. For example, customer acquisition and customer retention. All the telecom companies these days use different marketing
+methods to retain their customers. 
+
+2. Financial analytics. This type of analytics is a new way to drive competitive advantage. It helps financial executives 
+explore different ways to answer specific financial related business questions and forecast future financial situations. 
+In today's dynamic business environment, financial analytics helps the finance function to bring greater value to the organization.
+Financial analytics helps companies make multiple views of their data and derive insights that will help them take the necessary 
+actions. For example, consolidation of financial statements. Financial statements are reports prepared with the sole purpose of 
+maintaining business accounts in a timely manner. These statements showcase the financial position of the company to the market 
+stakeholders, shareholders, government, and general public. These statements give a clear and detailed overview of the company's
+financial position to investors and creditors as well. 
+
+3. Performance analytics is the practice of using data and technology to study how our business is performing to continuously 
+make it better, like managing daily operations, planning strategies, and budgeting for business meetings, service level agreements,
+and pinpointing areas of improvement. For example, here in resource management, the performance of the employees is monitored on
+a regular basis, keeping in mind the parameters dependent on the type of organization and expectations performance analytics gives 
+companies enough time to take corrective actions for improving the performance of the employees in time, if required, thus improving 
+the productivity and output of the company risk analytics in today's dynamic business environment, where things change at a rapid 
+pace, the rate of risk is very high. The insecurities caused by these risks affect the success of the business.
+
+4. Risk analytics tries to receive the uncertainties of the predicted future and helps evaluate the project success or failure. 
+Organizations are trying to define and understand their tolerance level for real. With the help of risk analytics, organizations 
+try to manage and mitigate the risk as they can be identified, measured, and planned. Thus allowing decision-makers enough time 
+to make wise decisions and corrective action. Risk analytics can be categorized as quantitative risk analysis and qualitative risk 
+analysis. Quantitative risk analysis quantifies the possible project results specific to a project. This analysis tries 
+to numerically evaluate the possibilities of various adverse events and predict the losses a company would go through if any
+of the possibilities come true. Qualitative risk analysis is performed on almost all risks and is not numerically defined.
+This method involves defining various project related threats and risks, determining the extent of these risks and proposing 
+corrective actions in order to avoid the risk. For example, in banking industry, credit scores are built to predict individual 
+delinquency behavior and is used to represent the credit worthiness of an individual. Corruption is understood as an unethical
+conduct by a person or group of people to generate illegal profit, generally to acquire personal benefit. It drastically affects 
+the confidence and trust of the parties involved and thus hampers the achievement of project goals. 
+It's one of the common risks to be taken into account.
+
+
