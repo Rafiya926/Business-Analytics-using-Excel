@@ -27,9 +27,10 @@ Diagnostic - which states why it happened,
 Predictive - depicts what could happen, and 
 Prescriptive - talks about what should happen. 
 
-The first one on the list is descriptive analytics. This is known as the simplest class of analytics. This type of analytics 
+Descriptive analytics. This is known as the simplest class of analytics. This type of analytics 
 allows us to break a big chunk of data into smaller pieces, chunking out relevant information from the data or brief synopsis 
-of what has happened. Let us take an example of doing a descriptive analytics of the customer data. 
+of what has happened. 
+Example of doing a descriptive analytics of the customer data. 
 It includes finding answers to the following questions. 
 
 How many different segments of buyers are we dealing with? 
@@ -38,7 +39,7 @@ How do high value customers differ?
 What are they interested in? 
 What is the income, age, number of children, occupation, and regional breakdown of these buyers? 
 
-The next type is diagnostic analytics. Diagnostic analytics is the best option to go for if you want to dig deeper
+Diagnostic analytics is the best option to go for if you want to dig deeper
 into the data you have collected and have a better understanding of why things happen. Let us now learn about another type, 
 which is predictive analytics.
 
@@ -50,7 +51,7 @@ For what product and through which channel?
 What are the potential values of each customer and prospect? 
 Who will stop the subscription of the services and when would that happen? 
 
-The last one on the list is prescriptive analytics. 
+Prescriptive analytics. 
 Prescriptive analytics is the last phase of business analytics and is related to both descriptive and predictive analytics. 
 While descriptive analytics provide information about what has happened and predictive analytics helps to forecast what might happen, 
 which is probabilistic in nature. Prescriptive analytics optimizes decision making by determining the best solution available 
@@ -120,3 +121,202 @@ A: Predictive analytics
 Question 5
 Which type of analytics helps organizations decide the best course of action among alternatives?
 A: Prescriptive analytics
+
+
+
+Sort and filter.
+
+The sort and filter functionalities are available in Excel to order or filter the data for further analysis. 
+Let us consider an example to understand it. Here we have the results of nine students for the math subject. 
+Firstly, let's understand sort functionalities. In order to sort the values based on the CGPA in descending order, go to data tab. 
+The pop-up will appear. Under this, first select the CGPA column name and then click on sort and click OK. It will sort the data 
+and give you the result like this.
+
+We can do the same on non-numeric columns and multiple columns as well. Let us see how we can sort names in ascending order. 
+Under the sort by tab, select name and order as A to Z and click OK. We will get the result in the sorted manner.
+
+Filter option allows us to choose any column we would like to filter the data on. Let us consider the same example. 
+Now to filter the data under data tab, click on filter.
+For example, we want to see the CGPAs that are greater than or equal to four. 
+So we will choose the greater than or equal to option from the dropdown and then mention the number. 
+In this case, it is 4.0. Then it will filter all data and give results in this order.
+
+
+Group by and subtotal.
+
+Group by and ungroup by are available under the data tab within outline section. The group by functionality in Excel allows us to
+show necessary data and hide unnecessary data for easy viewing and analysis. We can also create subtotals and outline for a given 
+set of data.
+
+Group by can be done for rows or columns. Let us discuss about the steps for grouping data. The first step is to select the rows and 
+columns you want to group. Now click on group under data tab. There will be a pop-up tab to choose either rows or columns.
+Choose columns and click on okay. This groups the three columns chosen and applies a control to show or hide the group content. 
+Clicking on hyphen hides the content, whereas clicking on plus shows the group content.
+Similarly for row wise grouping, select the rows you want to group. Click on group under the data tab and then select rows option 
+from the dialog box and click on okay. Here again, clicking on hyphen hides the content and clicking on plus shows the group content.
+However, we can create a group within a group by choosing rows or columns within the group data. This will be the result.
+Let us now learn about ungrouping. The ungroup option allows us to remove the groups created by group. In order to ungroup, 
+choose the data already chosen for grouping, either row or column. Click on ungroup under the data tab.
+Choose rows to remove row level grouping. Now you will notice that the group chosen will be removed.
+
+Subtotal. Subtotal allows us to create groups and have a subtotal for each group. 
+Let us understand this by taking an example. For the following dataset, we can find the total per student by grouping on 
+students and adding their marks. Now let us select the data we need to group by and subtotal. Click on subtotal under data tab. 
+Now click on the column to which the sum function has to be applied. The subtotaling provides control to group and shows subtotals 
+per student.
+
+
+Text-to-column function 
+Text-to-column chart is used to convert raw texts into columns in an Excel sheet. Now, let us learn how to achieve text-to-column 
+through an example. Consider the following raw text.
+Here, the information such as name, age, address, phone number, and the university is provided in the raw text form. 
+First, open the Excel file and paste the raw content into it. Next, choose column A in the sheet. Go to the Data tab in the 
+header and click on the text-to-columns. Next, in the dialog box, choose the delimited option, as our data is delimited by commas. 
+Hit Next to go to the next step. The next step is to choose the delimiter. The different delimiters can be tab, semicolon, comma, 
+space, or any others. Since the elements in the raw text are separated by commas, we will choose a comma. Click Next to go to the 
+next step. The text-to-column function considers the elements separated by the delimiters, in this case, the commas, as separate 
+entities, and puts each element in a box in an Excel sheet as shown.
+
+
+Removing duplicates. 
+First, let us learn what a duplicate is. Duplicate refers to a copy of the original.
+So in order to prevent errors, we have to remove duplicates. In any data analytics work, there will always be cases where we would 
+get duplicates in different columns. Excel is very handy in removing duplicates in the data. Duplicates can occur in data and cause
+errors in analytics. Duplicates occur when there is an incorrect submission of user data multiple times, when there is a missing 
+validation for duplication in the dataset.
+Duplicates occur when we merge multiple data sources using joins. And also when data is copy pasted multiple times. 
+When duplicates are removed using Excel, we can choose a single column or multiple columns to check the data. Let us consider an 
+example to understand it. Choose the column with a set of rows to remove duplicates. Here, you can see that there are many duplicates 
+in this column. Let us select the entire column. After selecting it, click on data, then move your cursor to the rightmost side of
+the data panel, and then click on remove duplicates. After selecting this option, a pop-up will appear. Since the required column
+is selected, all you have to do is select OK and proceed.
+Finally, you can see that all the duplicates are removed.
+
+
+Data validation.
+The data in Excel can be validated using some rules set in data validation. Let us understand data validation by considering an 
+example. Choose the cell or a group of cells to validate and click on data validation under data tab. It is important to remember 
+that the validation applies to new data entered in the cells where rules are placed. Existing data is not validated. After clicking 
+on the data validation, a pop-up appears regarding the validation criteria. The following validations are possible. Any value allows 
+any alphanumeric value in the cells. Now let us learn about whole number. This validation criteria allows whole numbers and a set of 
+rules, including a range of minimum and maximum to be set. Now let us know about list. List allows only a list of values specified 
+in a range of cells or written manually in the source input box. Now let us learn about date. This validation criteria allows only 
+dates and a set of rules, including a range of minimum and maximum to be set. Let us now learn about time. This validation criteria
+allows only time values and a set of rules, including a range of minimum and maximum to be set. Let us now learn about text length.
+In this criteria, only text is permitted within the specified length and a set of rules on the length to be set.
+Finally, let us know about custom. In this criteria, custom rules on data can be set.
+
+Question 1
+In which of the following sections can we find Group By and Subtotal under the data tab?   
+A:  Outline
+
+Question 2
+Which of the following options can be used for sorting on multiple columns?
+A:  Add Level
+
+Question 3
+Which of the following options is used to convert text to columns when there is no delimiters?
+A: Fixed Width
+
+Question 4
+Why do duplicates occur in a dataset?   
+A: MIssing Validation
+
+Question 5
+Which of the following options in data validation allows us to validate a list of values?
+A: List
+
+Question 6
+Which of the following range of values can be provided in data validation?   
+A: Between (range minimum to maximum)
+
+Question 7
+Which of the following options in data validation allows us to validate a list of values?  
+A: List
+
+Question 8
+Which of the following range of values can be provided in data validation?
+A: Between (range minimum to maximum)
+
+Assessment for Foundations of Business Analytics
+
+Question 1
+What does prescriptive analytics help with?   
+A: Recommend optimal actions
+
+Question 2
+Which tool in Excel helps arrange data in a specific order?   
+A: SOrt data in ascending or descending order
+
+Question 3
+What does the 'Filter' feature in Excel do?   
+A: Temporary hide rows based on criteria
+
+Question 4
+What is the purpose of the Group By function in Excel?   
+A: organize data into categories for analysis
+
+Question 5
+What does the Subtotal feature in Excel do?   
+A: Calculates totals for grouped data   
+
+Question 6
+What is the primary goal of business analytics?  
+A: TO make data driven decision
+
+Question 7
+Which of the following is NOT a type of analytics?   
+A: Reactive analytics
+
+Question 8
+Which type of analytics helps identify the cause of past events?   
+A: Diagnostic analytics
+
+Question 9
+Which type of analytics predicts future outcomes?   
+A: Predictive analytics
+
+Question 10
+Which analytics area focuses on data summarization?  
+A: Descriptive analytics
+
+Question 11
+What does Text to Column help you do in Excel?
+A: Split text from one column into multiple columns
+
+Question 12
+Which Excel feature removes duplicate rows from data?
+A: Remove identical entries in a dataset
+
+Question 13
+What is the function of Data Validation in Excel?
+A: Restrict data entry to define values
+
+Question 14
+Which area of analytics involves decision optimization?
+A: Prescriptive analytics 
+
+Question 15
+Which type of analytics uses machine learning for forecasting?
+A:Predictive analytics
+
+Question 16
+What does the Sort function allow in Excel?
+A: Arrange values based on criteria
+
+Question 17
+What is an example of diagnostic analytics?
+A: Root cause analysis
+
+Question 18
+Which is a benefit of removing duplicates before analysis?
+A: Ensures Data accuracy
+
+Question 19
+Which Excel tool ensures only valid data is entered in a cell?
+A:Restrict input to dropdown options
+
+Question 20
+Which of the following is an example of descriptive analytics?
+A: Using charts to show monthly sales trends
+
